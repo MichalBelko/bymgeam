@@ -1,2 +1,2 @@
 # bymgeam
-A mini eshop similar to Gymbeam created with Next + Tailwind
+A mini eshop similar to Gymbeam created with Next.js + Tailwind
