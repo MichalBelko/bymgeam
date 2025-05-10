@@ -23,7 +23,7 @@ const LoginPage = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-[#F2F2F2]">
-      <div className="w-full max-w-md bg-white p-8 shadow-2xl flex flex-col items-center">
+      <div className="w-full max-w-md bg-white m-4 p-8 shadow-2xl flex flex-col items-center">
         <div className="mb-6 flex flex-col items-center">
           <span className="text-4xl font-extrabold text-dark-color tracking-wide mb-2">
             BymGeam
