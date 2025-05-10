@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # bymgeam
 A mini eshop similar to Gymbeam created with Next.js + Tailwind
->>>>>>> f9bbed8051f2b3933825381e1d09c678d6c7adea
+
