@@ -16,7 +16,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# You will be asked to login in order to see the products. Hence, please use email: test@gmail.com and password:test
+### You will be asked to login, in order to see the products.
+### Hence, please use email: test@gmail.com and password:test
 # bymgeam
 A mini eshop similar to Gymbeam created with Next.js + Tailwind
 
