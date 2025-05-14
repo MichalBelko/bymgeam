@@ -78,11 +78,7 @@ const Footer = () => {
             Sledujte nás:
           </p>
           <TooltipProvider>
-            <div
-              className={cn(
-                "flex items-center justify-start md:justify-start gap-3.5 "
-              )}
-            >
+            <div className="flex items-center justify-start md:justify-start gap-3.5 ">
               <Tooltip>
                 <TooltipTrigger asChild>
                   <Link

@@ -31,7 +31,9 @@ const SingleProductPage = () => {
   }, [id]);
 
   if (!product) {
-    return <div className="text-center my-10 text-xl text-">Product not found.</div>;
+    return (
+      <div className="text-center my-10 text-xl text-">Product not found.</div>
+    );
   }
 
   return (
@@ -63,11 +65,7 @@ const SingleProductPage = () => {
           {product.description}
         </p>
         <div className="flex items-center gap-2.5 lg:gap-5 w-full">
-          <Button
-            className={cn(
-              " bg-[#FF4100] text-white shadow-none border flex-1 border-dark-color/30 tracking-wide font-semibold hover:bg-[#CC3000] hoverEffect"
-            )}
-          >
+          <Button className=" bg-[#FF4100] text-white shadow-none border flex-1 border-dark-color/30 tracking-wide font-semibold hover:bg-[#CC3000] hoverEffect">
             Add to cart
           </Button>
           <button className=" border-2 border-dark-color/30 text-dark-color/60 px-2.5 py-1.5 rounded-md hover:text-red hover:border-red hoverEffect">
